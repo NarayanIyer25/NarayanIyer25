@@ -3,7 +3,7 @@
 
 ---
 
-🔭 I’m currently pursuing my **Master’s in Computer Science** at **St. Francis College, New York**  
+🔭 I’m currently pursuing my **Master’s in Computer Science** at **St. Francis, New York**  
 📚 Relevant Coursework: Machine Learning, Data Mining, Network Security, Database Systems  
 👨‍💻 Previously worked as a **Software Developer at TCS** (Tata Consultancy Services)  
 📊 Passionate about **Data Visualization, Web Development, and Analytics**  
